@@ -1,2 +1,3 @@
-# azurezeng.github.io
-My main page on github
+# https://frecode.github.io/GoogleRedirect/static/HE-GoogleRedirect.json
+Header Editor导入规则地址：Google验证码
+https://frecode.github.io/GoogleRedirect/static/HE-GoogleRedirect.json
